@@ -25,7 +25,7 @@ h1{
     color: #ffffff;
     background-color: #63a7a4;
     padding: 31px;
-    width: 280px;
+    width: 425px;
     margin-left: 40px;
     margin-top: 30px;
     margin-bottom: 0;
@@ -110,7 +110,7 @@ h2{
     margin-left: 30px;
     margin-bottom: 10px;
     padding: 15px;
-    width: 180px;
+    width: 200px;
     clear: both;
 }
 .icons a:link{
@@ -190,7 +190,10 @@ h3{
 .submit{
     margin-left: 30px;
     padding: 10px;
+}
 
+.black-text {
+    color: black !important;
 }
 
 
